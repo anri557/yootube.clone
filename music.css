@@ -1,0 +1,19 @@
+.h1-videos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 60vh;
+}
+.btn-sub{
+    margin-bottom: -20px;
+width: 90px;
+}
+.Sign-in{
+padding: 5px 20px;
+border-radius: 20px;
+border:solid rgb(215, 215, 215);
+border-width: 1px;
+background-color: transparent;
+margin-top: 10px;
+}
